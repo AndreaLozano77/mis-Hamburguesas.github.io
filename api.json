@@ -1,0 +1,38 @@
+[
+    {
+        "precio": 8000,
+        "id": 1111,
+        "title": "Hamburguesa sencilla",
+        "imagen": "./img/hamburger1.jpeg"
+    },
+    {
+        "precio": 12000,
+        "id": 2222,
+        "title": "Hamburguesa doble",
+        "imagen": "./img/hamburguer3.jpeg"
+    },
+    {
+        "precio": 4000,
+        "id": 3333,
+        "title": "Papas Fritas",
+        "imagen": "./img/francesas2.jpeg"
+    },
+    {
+        "precio": 3000,
+        "id": 4444,
+        "title": "Cocacola",
+        "imagen": "./img/gaseosa1.jpeg"
+    },
+    {
+        "precio": 2000,
+        "id": 5555,
+        "title": "Extra de Tocino",
+        "imagen": "./img/tocino1.jpeg"
+    },
+    {
+        "precio": 2000,
+        "id": 6666,
+        "title": "Extra de Queso",
+        "imagen": "./img/queso3.jpeg"
+    }
+]

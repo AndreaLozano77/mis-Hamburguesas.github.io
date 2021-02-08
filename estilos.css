@@ -1,0 +1,67 @@
+/* Estilos */
+
+body {
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container{
+  background-color: #fbfce3;
+}
+
+figure {
+  width: auto;
+  text-align: center;
+}
+figure>img {
+  width: 25%;
+  height: 25%;
+}
+
+.ver-menu {
+  margin-left: 515px;
+  margin-bottom: 30px;
+}
+
+.caja1 {
+  letter-spacing: 0.2rem;
+  border-top: 50px solid #7eb857;
+}
+
+
+/* Carrito de comprar */
+
+.shopping-cart-items {
+  padding: 20px 0px;
+} 
+
+.shopping-cart-header {
+  border-bottom: 1px solid #ccc;
+}
+
+.shopping-cart-image {
+  max-width: 80px;
+  border-radius: 20px;
+}
+
+.shopping-cart-quantity-input {
+  max-width: 45px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background: #eee;
+  padding: 5px;
+}
+
+.shopping-cart-total {
+  min-height: 96px;
+}
+
+h6 {
+  font-weight: 600;
+  font-size: large;
+}
+
+
+.caja2 {
+  border-bottom: 50px solid #7eb857;
+}
+
